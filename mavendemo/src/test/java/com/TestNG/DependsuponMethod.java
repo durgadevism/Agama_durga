@@ -15,7 +15,7 @@ public class DependsuponMethod {
 	Assert.assertEquals("XYZ", "abc");
 		
 	}
-	@Test(dependsOnMethods="Search", alwaysRun=true)
+	@Test(dependsOnMethods="search", alwaysRun=true)
 	public void logout() {
 		System.out.println("logout");
 			
