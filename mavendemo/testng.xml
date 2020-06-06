@@ -6,7 +6,6 @@
       <class name="com.TestNG.PriorityTestcase"/>
       <class name="com.TestNG.DependsOnGoups"/>
       <class name="com.TestNG.DependsuponMethod"/>
-      <class name="com.TestNG.InvocationCountExample"/>
       <class name="com.TestNG.ParallelEecution1"/>
       <class name="com.TestNG.ParallelExecution"/>
       <class name="com.TestNG.ParallelExecHomewrk"/>
